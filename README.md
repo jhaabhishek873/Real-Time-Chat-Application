@@ -6,7 +6,11 @@
 # Project Screenshot
 <img width="957" alt="Screenshot 2023-10-02 022521" src="https://github.com/jhaabhishek873/Real-Time-Chat-Application/assets/97404077/c1882f99-9406-4bf0-8763-6f1111417e0d">
 
-
+# use this Test ID and password for Login
+Test Name 1- Abhishek
+Password 1 - 1234
+Test Name 2 - Ashish
+Password 2 - 1234
 
 # Getting Started with Create React App
 
