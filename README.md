@@ -1,3 +1,13 @@
+# What I have Learned
+1. Learned Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS
+2. Shows User Online Statuses, icons telling who read the message, image support, the ability to create multiple rooms, Login Functionality, and Real-time Chat Support
+3. Tools Used:- HTML5, CSS3, Javascript, React Js, NodeJS, Socket.Io , React-chat-engine,Axios and chatengine.io
+
+# Project Screenshot
+<img width="957" alt="Screenshot 2023-10-02 022521" src="https://github.com/jhaabhishek873/Real-Time-Chat-Application/assets/97404077/c1882f99-9406-4bf0-8763-6f1111417e0d">
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
