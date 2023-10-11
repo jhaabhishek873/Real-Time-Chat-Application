@@ -8,9 +8,9 @@
 
 # use this Test ID and password for Login
 Test Name 1- Abhishek
-Password 1 - 1234
-Test Name 2 - Ashish
-Password 2 - 1234
+Password 1 - 1111
+Test Name 2 - Ashish Mehta
+Password 2 - 1111
 
 # Getting Started with Create React App
 
